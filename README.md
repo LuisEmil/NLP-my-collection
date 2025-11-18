@@ -34,8 +34,8 @@ A machine-learning approach using the Multinomial Naive Bayes algorithm to class
 
 ### Key features:
 
-Loads and cleans labeled sentiment data
-Uses CountVectorizer for Bag-of-Words feature extraction
-Trains a Multinomial Naive Bayes model
-Evaluates accuracy using classification metrics
-Includes a helper function for testing custom sentences
+ - Loads and cleans labeled sentiment data
+ - Uses CountVectorizer for Bag-of-Words feature extraction
+ - Trains a Multinomial Naive Bayes model
+ - Evaluates accuracy using classification metrics
+ - Includes a helper function for testing custom sentences
